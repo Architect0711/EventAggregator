@@ -1,0 +1,6 @@
+E:\Develop\Projects\_CSharp\DesignPatterns\EventAggregator\EventAggregator\bin\Debug\EventAggregator.dll
+E:\Develop\Projects\_CSharp\DesignPatterns\EventAggregator\EventAggregator\bin\Debug\EventAggregator.pdb
+E:\Develop\Projects\_CSharp\DesignPatterns\EventAggregator\EventAggregator\obj\Debug\EventAggregator.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\_CSharp\DesignPatterns\EventAggregator\EventAggregator\obj\Debug\EventAggregator.dll
+E:\Develop\Projects\_CSharp\DesignPatterns\EventAggregator\EventAggregator\obj\Debug\EventAggregator.pdb
+E:\Develop\Projects\_CSharp\DesignPatterns\EventAggregator\EventAggregator\obj\Debug\EventAggregator.csprojAssemblyReference.cache
